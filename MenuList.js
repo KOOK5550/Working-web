@@ -1,5 +1,5 @@
-endpoint = `https://xakibin-fs8d.onrender.com`
-apikey = `SAKIBIN-FREE-SY6B4X`
+endpoint = `https://sakibin-api-9c83.onrender.com`
+apikey = `S4B1K-USERS`
 message_list = [{
     icon: 'fa-solid fa-star-exclamation',
     title: 'The website went live',
@@ -16,7 +16,7 @@ item_list = [
                 "name": "Create APIKEY"
             },
             {
-                "url": endpoint + '/apikey?type=checker&apikey=SAKIBIN-FREE-SY6B4X',
+                "url": endpoint + '/apikey?type=checker&apikey=S4B1K-USERS',
                 "name": "Check APIKEY"
             }
         ]
@@ -40,11 +40,11 @@ event: 'HOT',
 name: 'Text Edit 200+',
 icon: 'fa-solid fa-wand-magic-sparkles',
   item: [{
-                "url": endpoint + '/api/textpro?number=1&text=Sakibin&apikey=' + apikey,
+                "url": endpoint + '/api/textpro?number=1&text=Sabik&apikey=' + apikey,
                 "name": "Textpro (replace number)"
             },
             {
-                "url": endpoint + '/api/photooxy/4?text=Sakibin&apikey=' + apikey,
+                "url": endpoint + '/api/photooxy/4?text=Sabik&apikey=' + apikey,
                 "name": "Photooxy (1-15)"
             }
         ]
@@ -141,7 +141,7 @@ icon: 'fa-solid fa-wand-magic-sparkles',
                 "name": "Anime image creation data"
             },   
             {
-                "url": endpoint + "/taoanhdep/avatarwibu?id=1&chu_nen=Sakibin&chu_ky=Sinha","name": "Create avatars"
+                "url": endpoint + "/taoanhdep/avatarwibu?id=1&chu_nen=Saimum&chu_ky=Sabik","name": "Create avatars"
             }
         ]
     },
@@ -187,11 +187,11 @@ icon: 'fa-solid fa-wand-magic-sparkles',
         icon: 'fa-solid fa-diagram-lean-canvas',
         item: [
             {
-                "url": endpoint + "/fbcover/v1?name=Sakibin&color=red&address=Bangladesh,Comilla&email=mdsinha62@gmail.com&subname=Sinha&sdt=01730944***&uid=100065445284007",
+                "url": endpoint + "/fbcover/v1?name=Saimum&color=red&address=Bangladesh, Rajshahi&email=sai***@gmail.com&subname=Sabik&sdt=01705***&uid=100071575183469",
                 "name": "Facebook Cover v1"
             },
             {
-                "url": endpoint + "/fbcover/v3?name=Sakibin&birthday=26/02&love=Juhi&location=Bangladesh&hometown=Comilla&follow=2591&gender=Male&uid=100065445284007",
+                "url": endpoint + "/fbcover/v3?name=Sabik&birthday=30/12&love=S4B1K&location=Bangladesh&hometown=Rajshahi&follow=2591&gender=Male&uid=100071575183469",
                 "name": "Facebook Cover v2"
             },
                  {
@@ -210,7 +210,7 @@ icon: 'fa-solid fa-wand-magic-sparkles',
         name: 'Youtube',
         icon: 'fa-brands fa-youtube',
         item: [{
-                "url": endpoint + '/youtube?search=Sơn Tùng',
+                "url": endpoint + '/youtube?search=Son Tung',
                 "name": "Youtube Search"
             },
             {
@@ -232,11 +232,11 @@ icon: 'fa-solid fa-wand-magic-sparkles',
         name: 'Banking',
         icon: 'fas fa-university',
         item: [{
-                "url": endpoint + "/bank/check?ID=100065445284007",
+                "url": endpoint + "/bank/check?ID=100071575183469",
                 "name": "Check Bank ID"
             },
             {
-                "url": endpoint + "/bank/register?senderID=100065445284007&name=Nguyễn Hải Đăng ꪜ",
+                "url": endpoint + "/bank/register?senderID=100071575183469&name=S4B1K",
                 "name": "Create Bank"
             },
             {
@@ -244,19 +244,19 @@ icon: 'fa-solid fa-wand-magic-sparkles',
                 "name": "Find Bank (Code)"
             },
             {
-                "url": endpoint + "/bank/find?type=ID&ID=100065445284007",
+                "url": endpoint + "/bank/find?type=ID&ID=100071575183469",
                 "name": "Find Bank (Example)"
             },
             {
-                "url": endpoint + "/bank/password?bka=get&dka=100065445284007",
+                "url": endpoint + "/bank/password?bka=get&dka=100071575183469",
                 "name": "Get Password"
             },
             {
-                "url": endpoint + "/bank/password?bka=recovery&dka=100065445284007&fka=26020712",
+                "url": endpoint + "/bank/password?bka=recovery&dka=100071575183469&fka=26020712",
                 "name": "New Password"
             },   
             {
-                "url": endpoint + "/bank/send?senderID=100065445284007&money=99999999999",
+                "url": endpoint + "/bank/send?senderID=100071575183469&money=99999999999",
                 "name": "Recharge Money Bank"
             },
             {
@@ -264,15 +264,15 @@ icon: 'fa-solid fa-wand-magic-sparkles',
                 "name": "Top Bank"
             },
             {
-                "url": endpoint + "/bank/pay?type=STK&senderID=100065445284007&STK=705751495&money=9999999999&password=26020712",
+                "url": endpoint + "/bank/pay?type=STK&senderID=100071575183469&STK=705751495&money=9999999999&password=26020712",
                 "name": "Pay Bank (STK)"
             },
             {
-                "url": endpoint + "/bank/pay?type=ID&senderID=100065445284007&userID=100065445284007&money=9999999999&password=26020712",
+                "url": endpoint + "/bank/pay?type=ID&senderID=100071575183469&userID=100071575183469&money=9999999999&password=26020712",
                 "name": "Pay Bank (UID)"
             },
             {
-                "url": endpoint + "/bank/get?ID=100065445284007&money=99999999999999&password=26020712",
+                "url": endpoint + "/bank/get?ID=100071575183469&money=99999999999999&password=26020712",
                 "name": "Withdraw Money Bank"
             }   
         ]
@@ -291,75 +291,75 @@ icon: 'fa-solid fa-wand-magic-sparkles',
         name: 'Random Images',
         icon: 'fa-solid fa-images',
         item: [{
-                "url": endpoint + '/images/anime?apikey=SAKIBIN-FREE-SY6B4X',
+                "url": endpoint + '/images/anime?apikey=S4B1K-USERS',
                 "name": "Anime"
             },
             {
-                "url": endpoint + '/images/chitanda?apikey=SAKIBIN-FREE-SY6B4X',
+                "url": endpoint + '/images/chitanda?apikey=S4B1K-USERS',
                 "name": "Chitanda"
             },
             {
-                "url": endpoint + '/images/cosplay?apikey=SAKIBIN-FREE-SY6B4X',
+                "url": endpoint + '/images/cosplay?apikey=S4B1K-USERS',
                 "name": "Cosplay"
             },
             {
-                "url": endpoint + '/images/gaixinhvn?apikey=SAKIBIN-FREE-SY6B4X',
+                "url": endpoint + '/images/gaixinhvn?apikey=S4B1K-USERS',
                 "name": "Girl Vietnam"
             },
             {
-                "url": endpoint + '/images/girl?apikey=SAKIBIN-FREE-SY6B4X',
+                "url": endpoint + '/images/girl?apikey=S4B1K-USERS',
                 "name": "Girl"
             },
             {
-                "url": endpoint + '/images/jimmy?apikey=SAKIBIN-FREE-SY6B4X',
+                "url": endpoint + '/images/jimmy?apikey=S4B1K-USERS',
                 "name": "Jimmy"
             },
             {
-                "url": endpoint + '/images/kana?apikey=SAKIBIN-FREE-SY6B4X',
+                "url": endpoint + '/images/kana?apikey=S4B1K-USERS',
                 "name": "Kana"
             },
             {
-                "url": endpoint + '/images/khanhhuyen?apikey=SAKIBIN-FREE-SY6B4X',
+                "url": endpoint + '/images/khanhhuyen?apikey=S4B1K-USERS',
                 "name": "Khánh Huyền"
             },
             {
-                "url": endpoint + '/images/kurumi?apikey=SAKIBIN-FREE-SY6B4X',
+                "url": endpoint + '/images/kurumi?apikey=S4B1K-USERS',
                 "name": "Kurumi"
             },
             {
-                "url": endpoint + '/images/lebong?apikey=SAKIBIN-FREE-SY6B4X',
+                "url": endpoint + '/images/lebong?apikey=S4B1K-USERS',
                 "name": "Lê Bống"
             },
             {
-                "url": endpoint + '/images/lnd?apikey=SAKIBIN-FREE-SY6B4X',
+                "url": endpoint + '/images/lnd?apikey=S4B1K-USERS',
                 "name": "Linh Ngọc Đàm"
             },
             {
-                "url": endpoint + '/images/loli?apikey=SAKIBIN-FREE-SY6B4X',
+                "url": endpoint + '/images/loli?apikey=S4B1K-USERS',
                 "name": "Loli"
             },
             {
-                "url": endpoint + '/images/ngoctrinh?apikey=SAKIBIN-FREE-SY6B4X',
+                "url": endpoint + '/images/ngoctrinh?apikey=S4B1K-USERS',
                 "name": "Ngoc Trinh"
             },
             {
-                "url": endpoint + '/images/rem?apikey=SAKIBIN-FREE-SY6B4X',
+                "url": endpoint + '/images/rem?apikey=S4B1K-USERS',
                 "name": "Rem"
             },
             {
-                "url": endpoint + '/images/sagiri?apikey=SAKIBIN-FREE-SY6B4X',
+                "url": endpoint + '/images/sagiri?apikey=S4B1K-USERS',
                 "name": "Sagiri"
             },
             {
-                "url": endpoint + '/images/siesta?apikey=SAKIBIN-FREE-SY6B4X',
+                "url": endpoint + '/images/siesta?apikey=S4B1K-USERS',
                 "name": "Siesta"
             },
             {
-                "url": endpoint + '/images/umaru?apikey=SAKIBIN-FREE-SY6B4X',
+                "url": endpoint + '/images/umaru?apikey=S4B1K-USERS',
                 "name": "Umaru"
             },
             {
-                "url": endpoint + '/images/wallpaper?apikey=SAKIBIN-FREE-SY6B4X',
+                "url": endpoint + '/images/wallpaper?apikey=S4B1K-USERS',
                 "name": "Wallpaper"
             } 
         ]
@@ -374,7 +374,7 @@ icon: 'fa-solid fa-wand-magic-sparkles',
                 "name": "Ask"
             },
             {
-                "url": endpoint + '/sim?type=teach&ask=who is this server admin?&ans=this server admin is Sakibin',
+                "url": endpoint + '/sim?type=teach&ask=who is this server admin?&ans=this server admin is Saimum Sabik',
                 "name": "Teach"
             }
         ]
@@ -407,12 +407,12 @@ icon: 'fa-solid fa-wand-magic-sparkles',
         icon: 'fas fa-user-headset',
         item: [{
             event: 'DO NOT SPAM',
-            url: 'https://www.facebook.com/imsakibin007?mibextid=9R9pXO',
+            url: 'https://www.facebook.com/100071575183469',
             name: 'Facebook'
         },
         {
             event: 'HOT',
-            url: 'https://github.com/sakibin/',
+            url: 'https://github.com/',
             name: 'Github'
         }
         ]
