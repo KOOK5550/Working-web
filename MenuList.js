@@ -16,7 +16,7 @@ item_list = [
                 "name": "Create APIKEY"
             },
             {
-                "url": endpoint + '/apikey?type=checker&apikey=S4B1K-USERS',
+                "url": endpoint + '/apikey?type=checker&apikey=' + apikey,
                 "name": "Check APIKEY"
             }
         ]
@@ -291,75 +291,75 @@ icon: 'fa-solid fa-wand-magic-sparkles',
         name: 'Random Images',
         icon: 'fa-solid fa-images',
         item: [{
-                "url": endpoint + '/images/anime?apikey=S4B1K-USERS',
+                "url": endpoint + '/images/anime?apikey=' + apikey,
                 "name": "Anime"
             },
             {
-                "url": endpoint + '/images/chitanda?apikey=S4B1K-USERS',
+                "url": endpoint + '/images/chitanda?apikey=' + apikey,
                 "name": "Chitanda"
             },
             {
-                "url": endpoint + '/images/cosplay?apikey=S4B1K-USERS',
+                "url": endpoint + '/images/cosplay?apikey=' + apikey,
                 "name": "Cosplay"
             },
             {
-                "url": endpoint + '/images/gaixinhvn?apikey=S4B1K-USERS',
+                "url": endpoint + '/images/gaixinhvn?apikey=' + apikey,
                 "name": "Girl Vietnam"
             },
             {
-                "url": endpoint + '/images/girl?apikey=S4B1K-USERS',
+                "url": endpoint + '/images/girl?apikey=' + apikey,
                 "name": "Girl"
             },
             {
-                "url": endpoint + '/images/jimmy?apikey=S4B1K-USERS',
+                "url": endpoint + '/images/jimmy?apikey=' + apikey,
                 "name": "Jimmy"
             },
             {
-                "url": endpoint + '/images/kana?apikey=S4B1K-USERS',
+                "url": endpoint + '/images/kana?apikey=' + apikey,
                 "name": "Kana"
             },
             {
-                "url": endpoint + '/images/khanhhuyen?apikey=S4B1K-USERS',
+                "url": endpoint + '/images/khanhhuyen?apikey=' + apikey,
                 "name": "Khánh Huyền"
             },
             {
-                "url": endpoint + '/images/kurumi?apikey=S4B1K-USERS',
+                "url": endpoint + '/images/kurumi?apikey=' + apikey,
                 "name": "Kurumi"
             },
             {
-                "url": endpoint + '/images/lebong?apikey=S4B1K-USERS',
+                "url": endpoint + '/images/lebong?apikey=' + apikey,
                 "name": "Lê Bống"
             },
             {
-                "url": endpoint + '/images/lnd?apikey=S4B1K-USERS',
+                "url": endpoint + '/images/lnd?apikey=' + apikey,
                 "name": "Linh Ngọc Đàm"
             },
             {
-                "url": endpoint + '/images/loli?apikey=S4B1K-USERS',
+                "url": endpoint + '/images/loli?apikey=' + apikey,
                 "name": "Loli"
             },
             {
-                "url": endpoint + '/images/ngoctrinh?apikey=S4B1K-USERS',
+                "url": endpoint + '/images/ngoctrinh?apikey=' + apikey,
                 "name": "Ngoc Trinh"
             },
             {
-                "url": endpoint + '/images/rem?apikey=S4B1K-USERS',
+                "url": endpoint + '/images/rem?apikey=' + apikey,
                 "name": "Rem"
             },
             {
-                "url": endpoint + '/images/sagiri?apikey=S4B1K-USERS',
+                "url": endpoint + '/images/sagiri?apikey=' + apikey,
                 "name": "Sagiri"
             },
             {
-                "url": endpoint + '/images/siesta?apikey=S4B1K-USERS',
+                "url": endpoint + '/images/siesta?apikey=' + apikey,
                 "name": "Siesta"
             },
             {
-                "url": endpoint + '/images/umaru?apikey=S4B1K-USERS',
+                "url": endpoint + '/images/umaru?apikey=' + apikey,
                 "name": "Umaru"
             },
             {
-                "url": endpoint + '/images/wallpaper?apikey=S4B1K-USERS',
+                "url": endpoint + '/images/wallpaper?apikey=' + apikey,
                 "name": "Wallpaper"
             } 
         ]
@@ -418,4 +418,3 @@ icon: 'fa-solid fa-wand-magic-sparkles',
         ]
     }
 ];
-      
