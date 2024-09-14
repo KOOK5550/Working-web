@@ -54,63 +54,63 @@ icon: 'fa-solid fa-wand-magic-sparkles',
      name: 'Image edit via Url',
      icon: 'fa fa-area-chart',
      item: [{
-         "url": endpoint + '/api/maker/darkness?url=https://imgur.com/a/xJpw87x.jpg&no=40&apikey=' + apikey,
+         "url": endpoint + '/api/maker/darkness?url=https://i.imgur.com/uH2pJDl.jpeg&no=40&apikey=' + apikey,
          "name": "Darkness"
                },
       {
-        "url": endpoint + '/api/maker/blur?url=https://imgur.com/a/xJpw87x.jpg&apikey=' + apikey,
+        "url": endpoint + '/api/maker/blur?url=https://i.imgur.com/uH2pJDl.jpeg&apikey=' + apikey,
         "name": "Blur"
       },
       {
 
-         "url": endpoint + '/api/maker/pixelate?url=https://imgur.com/a/xJpw87x.jpg&no=20&apikey=' + apikey,
+         "url": endpoint + '/api/maker/pixelate?url=https://i.imgur.com/uH2pJDl.jpeg&no=20&apikey=' + apikey,
 
          "name": "Pixelate"
                },
                {
 
-         "url": endpoint + '/api/maker/circle?url=https://imgur.com/a/xJpw87x.jpg&apikey=' + apikey,
+         "url": endpoint + '/api/maker/circle?url=https://i.imgur.com/uH2pJDl.jpeg&apikey=' + apikey,
 
          "name": "Circle"
                },
                {
 
-         "url": endpoint + '/api/maker/invert?url=https://imgur.com/a/xJpw87x.jpg&apikey=' + apikey,
+         "url": endpoint + '/api/maker/invert?url=https://i.imgur.com/uH2pJDl.jpeg&apikey=' + apikey,
 
          "name": "Invert"
                },
                {
 
-         "url": endpoint + '/api/maker/facepalm?url=https://imgur.com/a/xJpw87x.jpg&apikey=' + apikey,
+         "url": endpoint + '/api/maker/facepalm?url=https://i.imgur.com/uH2pJDl.jpeg&apikey=' + apikey,
 
          "name": "Facepalm"
                },
             {
-         "url": endpoint + '/api/maker/beautiful?url=https://imgur.com/a/xJpw87x.jpg&apikey=' + apikey,
+         "url": endpoint + '/api/maker/beautiful?url=https://i.imgur.com/uH2pJDl.jpeg&apikey=' + apikey,
 
          "name": "Beautiful"
                },
           {
                
-                      "url": endpoint + '/api/maker/rainbow?url=https://imgur.com/a/xJpw87x.jpg&apikey=' + apikey,
+                      "url": endpoint + '/api/maker/rainbow?url=https://i.imgur.com/uH2pJDl.jpeg&apikey=' + apikey,
                
                       "name": "Rainbow"
                     },
          {
     
-           "url": endpoint + '/api/maker/wanted?url=https://imgur.com/a/xJpw87x.jpg&apikey=' + apikey,
+           "url": endpoint + '/api/maker/wanted?url=https://i.imgur.com/uH2pJDl.jpeg&apikey=' + apikey,
     
            "name": "Wanted"
          },
             {
        
-              "url": endpoint + '/api/maker/trigger?url=https://imgur.com/a/xJpw87x.jpg&apikey=' + apikey,
+              "url": endpoint + '/api/maker/trigger?url=https://i.imgur.com/uH2pJDl.jpeg&apikey=' + apikey,
        
               "name": "Trigger"
             },
              {
         
-               "url": endpoint + '/api/maker/wasted?url=https://imgur.com/a/xJpw87x.jpg&apikey=' + apikey,
+               "url": endpoint + '/api/maker/wasted?url=https://i.imgur.com/uH2pJDl.jpeg&apikey=' + apikey,
         
                "name": "Wasted"
              },
@@ -418,3 +418,4 @@ icon: 'fa-solid fa-wand-magic-sparkles',
         ]
     }
 ];
+      
