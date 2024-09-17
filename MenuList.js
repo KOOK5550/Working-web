@@ -1,4 +1,4 @@
-endpoint = `https://sakibin-api-9c83.onrender.com`
+endpoint = `https://sakibin-api-1.onrender.com`
 apikey = `S4B1K-USERS`
 message_list = [{
     icon: 'fa-solid fa-star-exclamation',
