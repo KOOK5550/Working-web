@@ -291,75 +291,75 @@ icon: 'fa-solid fa-wand-magic-sparkles',
         name: 'Random Images',
         icon: 'fa-solid fa-images',
         item: [{
-                "url": endpoint + '/images/anime?apikey=' + apikey,
+                "url": endpoint + '/s4b1k/images/anime?apikey=' + apikey,
                 "name": "Anime"
             },
             {
-                "url": endpoint + '/images/chitanda?apikey=' + apikey,
+                "url": endpoint + '/s4b1k/images/chitanda?apikey=' + apikey,
                 "name": "Chitanda"
             },
             {
-                "url": endpoint + '/images/cosplay?apikey=' + apikey,
+                "url": endpoint + '/s4b1k/images/cosplay?apikey=' + apikey,
                 "name": "Cosplay"
             },
             {
-                "url": endpoint + '/images/gaixinhvn?apikey=' + apikey,
+                "url": endpoint + '//s4b1kimages/gaixinhvn?apikey=' + apikey,
                 "name": "Girl Vietnam"
             },
             {
-                "url": endpoint + '/images/girl?apikey=' + apikey,
+                "url": endpoint + '/s4b1k/images/girl?apikey=' + apikey,
                 "name": "Girl"
             },
             {
-                "url": endpoint + '/images/jimmy?apikey=' + apikey,
+                "url": endpoint + '/s4b1k/images/jimmy?apikey=' + apikey,
                 "name": "Jimmy"
             },
             {
-                "url": endpoint + '/images/kana?apikey=' + apikey,
+                "url": endpoint + '/s4b1k/images/kana?apikey=' + apikey,
                 "name": "Kana"
             },
             {
-                "url": endpoint + '/images/khanhhuyen?apikey=' + apikey,
+                "url": endpoint + '/s4b1k/images/khanhhuyen?apikey=' + apikey,
                 "name": "Khánh Huyền"
             },
             {
-                "url": endpoint + '/images/kurumi?apikey=' + apikey,
+                "url": endpoint + '/s4b1k/images/kurumi?apikey=' + apikey,
                 "name": "Kurumi"
             },
             {
-                "url": endpoint + '/images/lebong?apikey=' + apikey,
+                "url": endpoint + '/s4b1k/images/lebong?apikey=' + apikey,
                 "name": "Lê Bống"
             },
             {
-                "url": endpoint + '/images/lnd?apikey=' + apikey,
+                "url": endpoint + '/s4b1k/images/lnd?apikey=' + apikey,
                 "name": "Linh Ngọc Đàm"
             },
             {
-                "url": endpoint + '/images/loli?apikey=' + apikey,
+                "url": endpoint + '/s4b1k/images/loli?apikey=' + apikey,
                 "name": "Loli"
             },
             {
-                "url": endpoint + '/images/ngoctrinh?apikey=' + apikey,
+                "url": endpoint + '/s4b1k/images/ngoctrinh?apikey=' + apikey,
                 "name": "Ngoc Trinh"
             },
             {
-                "url": endpoint + '/images/rem?apikey=' + apikey,
+                "url": endpoint + '/s4b1k/images/rem?apikey=' + apikey,
                 "name": "Rem"
             },
             {
-                "url": endpoint + '/images/sagiri?apikey=' + apikey,
+                "url": endpoint + '/s4b1k/images/sagiri?apikey=' + apikey,
                 "name": "Sagiri"
             },
             {
-                "url": endpoint + '/images/siesta?apikey=' + apikey,
+                "url": endpoint + '/s4b1k/images/siesta?apikey=' + apikey,
                 "name": "Siesta"
             },
             {
-                "url": endpoint + '/images/umaru?apikey=' + apikey,
+                "url": endpoint + '/s4b1k/images/umaru?apikey=' + apikey,
                 "name": "Umaru"
             },
             {
-                "url": endpoint + '/images/wallpaper?apikey=' + apikey,
+                "url": endpoint + '/s4b1k/images/wallpaper?apikey=' + apikey,
                 "name": "Wallpaper"
             } 
         ]
@@ -370,11 +370,11 @@ icon: 'fa-solid fa-wand-magic-sparkles',
         name: 'Simsimi',
         icon: 'fa-solid fa-message-bot',
         item: [{
-                "url": endpoint + '/sim?type=ask&ask=who is this server admin?',
+                "url": endpoint + '/s4b1k/sim?type=ask&ask=who is this server admin?',
                 "name": "Ask"
             },
             {
-                "url": endpoint + '/sim?type=teach&ask=who is this server admin?&ans=this server admin is Saimum Sabik',
+                "url": endpoint + '/s4b1k/sim?type=teach&ask=who is this server admin?&ans=this server admin is Saimum Sabik',
                 "name": "Teach"
             }
         ]
@@ -384,19 +384,19 @@ icon: 'fa-solid fa-wand-magic-sparkles',
         name: 'Utilities',
         icon: 'fa-solid fa-lamp-street',
         item: [{
-                "url": endpoint + '/imgur?link=https://haycafe.vn/wp-content/uploads/2022/02/Anh-gai-xinh-Viet-Nam.jpg',
+                "url": endpoint + '/s4b1k/imgur?link=https://haycafe.vn/wp-content/uploads/2022/02/Anh-gai-xinh-Viet-Nam.jpg',
                 "name": "Imgur Upload"
             },
             {
-                "url": endpoint + '/random/useragent',
+                "url": endpoint + '/s4b1k/random/useragent',
                 "name": "Random User-Agent"
             },
             {
-                "url": endpoint + '/covid?country=viet%20nam',
+                "url": endpoint + '/s4b1k/covid?country=viet%20nam',
                 "name": "COVID 19 DATA"
             },
             {
-                "url": endpoint + '/uptimerobot?url=https://docs-api.jrtxtracy.repl.co&key=jrtxtracy&monitor=JRT',
+                "url": endpoint + '/s4b1k/uptimerobot?url=https://docs-api.jrtxtracy.repl.co&key=jrtxtracy&monitor=JRT',
                 "name": "Uptime Robot"
             }  
         ]
